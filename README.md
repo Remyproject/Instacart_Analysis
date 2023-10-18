@@ -87,3 +87,6 @@ This comprehensive data analysis has provided valuable insights into customer be
 By implementing these data-driven suggestions, we can enhance our store layout, marketing strategies, and customer engagement efforts. This approach will not only improve customer satisfaction but also contribute to increased sales and profitability, setting our business on a path to long-term success.
 
 In conclusion, this data analysis gives us the insights to make informed decisions and enhance the grocery store's overall performance.
+
+Power BI Dasboard : 
+https://app.powerbi.com/reportEmbed?reportId=9bbcdb85-797b-4a57-8e83-a7af99aaaabd&autoAuth=true&ctid=4fa41538-2dc5-488e-a219-791ad7707929
